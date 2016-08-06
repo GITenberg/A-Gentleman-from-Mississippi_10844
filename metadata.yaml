@@ -1,0 +1,39 @@
+_repo: A-Gentleman-from-Mississippi_10844
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Wise, Thomas A. (Thomas Alfred)
+    alias: Wise, Tom
+    birthdate: 1865
+    deathdate: 1928
+    gutenberg_agent_id: '33707'
+    url: http://www.gutenberg.org/2009/agents/33707
+    wikipedia: http://www.encyclopedia.com/doc/1O149-WiseThomasA.html
+  - agent_name: Rhodes, Harrison
+    birthdate: 1871
+    deathdate: 1929
+    gutenberg_agent_id: '32982'
+    url: http://www.gutenberg.org/2009/agents/32982
+  - agent_name: Toombs, Frederick R.
+    birthdate: 1879
+    gutenberg_agent_id: '32981'
+    url: http://www.gutenberg.org/2009/agents/32981
+description: "A Novel founded on the popular play of the same title by Thomas A. Wise\
+  \ (also in the starring role) and Harrison Rhodes, 1908, and produced by William\
+  \ A. Brady and Joseph R. Grismer.\r\nCf.:\r\nhttp://www.encyclopedia.com/doc/1O149-GentlemanfromMississippiA.html"
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10844'
+language: en
+publication_note: 'New York: J. S. Ogilvie Publishing Company, 1909'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcc 'PS'
+- !lcsh 'Legislators -- United States -- Fiction'
+- GITenberg
+title: A Gentleman from Mississippi
+url: http://www.gutenberg.org/ebooks/10844
