@@ -1,5 +1,8 @@
 _repo: A-Gentleman-from-Mississippi_10844
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Wise, Thomas A. (Thomas Alfred)
@@ -21,6 +24,8 @@ creator:
 description: "A Novel founded on the popular play of the same title by Thomas A. Wise\
   \ (also in the starring role) and Harrison Rhodes, 1908, and produced by William\
   \ A. Brady and Joseph R. Grismer.\r\nCf.:\r\nhttp://www.encyclopedia.com/doc/1O149-GentlemanfromMississippiA.html"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10844#A-Gentleman-from-Mississippi
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
